@@ -1,0 +1,116 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar-default{
+	background-color: transparent;
+	border: none;
+}
+.navbar-default .navbar-nav{
+	margin-top: 1%;
+}
+.navbar-default .navbar-nav li a{
+	color: white;
+	font-size: 1.5em;
+}
+header{
+	background-image: url(../image/large.jpg);
+	background-size: cover;
+	height: auto;
+	width: 100%;
+	color: white;
+}
+header h1{
+	background-color: rgba(0,0,0,0.3);
+	font-size: 3em;
+	padding: 20% 20% 10% 20%;
+	margin:0;
+}
+.celeste{
+	background-color: rgba(61,122,209,0.8);
+}
+.celeste .contenidoIzq{
+	margin: 5% 0%;
+	float: right;
+}
+.celeste .btnPrueba , .celestito .btnPrueba{
+	margin: 8% 0 0 2%;
+	padding: 1% 1.5%;
+	border: 2px solid white;
+	border-radius: 6%;
+	float: left;
+}
+.celeste a, .celestito a{
+	text-decoration: none;
+	color: white;
+	font-size: 2em;
+}
+/*-----NUESTROS SERVICIOS--------*/
+h2{	
+	margin: 8%;
+	font-size: 3em;
+	text-align: center;
+	color: #92CEFF;
+}
+.circulo{
+	margin:auto;
+	padding: 15%;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	box-shadow: -5px 9px 20px 0px rgba(0,0,0,0.27);
+}
+i{
+	color: #92CEFF;
+	font-size: 3em;
+}
+h4{
+	color: #7994AE;
+	font-size: 2em;
+	margin-top: 10%;
+	text-align: center;
+}
+p{
+	color: black;
+}
+.separador{
+	text-align: center;
+	margin: 5% 0;
+}
+h5{
+	font-size: 3em;
+	color: #92CEFF;
+	display: inline;
+}
+.logo2{
+	width: 50%;
+}
+.flecha{
+	margin: auto;
+	width: 25%;
+}
+.video{
+	margin-bottom: 8%;
+}
+.imagenfinal{
+	width: 100%;
+	height: auto;
+}
+.celestito{
+	background-color: #74A3DB;
+}
+.azulito{
+	background-color: #2A3541;
+}
+.contenfinal{
+	float:right;
+	padding: 5% 0;
+	margin-right: 5%;
+}
+.redes{
+	color:#74A3DB;
+}
+.contenfinal i{
+	font-size: 2em;
+}
